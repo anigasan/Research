@@ -1,1 +1,0 @@
-#hackthecrisis 2020 :)
