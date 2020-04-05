@@ -9,6 +9,7 @@ Following are the key ideas collected from Hackthon and other crowd sourcing tec
 | CoronaLog |Logs interactions to identify potentially sick people|hackthecrisis Finland|Idenitfying patients|Phone application|
 |Save Restaurants|Helps restauraunts by introducing a financial system|hackthecrisis Finland |Helping people|Whimsical and Figma|
 |Emooter|Helps with managing the emotional state of people|hackthecrisis Finland|Helping people|Phone application|
+| Cellstraint |Helps to limit interactions between people|hackthecrisis Finland|Aid|Phone Application|
 
 
 
